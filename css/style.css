@@ -1,0 +1,14 @@
+.logo {
+    margin-left: 10px;
+}
+
+.circulo {
+    border: solid 3px black;
+    border-radius: 100%;
+    font-size: large;
+
+}
+
+.navbar {
+    background-color:burlywood;
+}
