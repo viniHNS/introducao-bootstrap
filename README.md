@@ -7,4 +7,3 @@ Utilizando as seguintes as seguintes tecnologias :sunglasses:
 * HTML5  
 * CSS
 * Bootstrap 5
-
